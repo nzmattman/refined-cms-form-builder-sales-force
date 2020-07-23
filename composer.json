@@ -1,0 +1,31 @@
+{
+  "name": "refineddigital/cms-form-builder-sales-force",
+  "description": "Sales Force integration for Form Builder",
+  "require": {
+    "php": "^7.1.3",
+    "ext-curl": "*",
+    "refineddigital/cms": "~1.0|dev-master",
+    "refineddigital/cms-form-builder": "~1.0|dev-master"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Matthias Law",
+      "email": "matthias@refineddigital.co.nz"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "RefinedDigital\\FormBuilder\\SalesForce\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "RefinedDigital\\FormBuilder\\SalesForce\\Module\\Providers\\FormBuilderSalesForceServiceProvider"
+      ],
+      "aliases": {
+      }
+    }
+  }
+}
