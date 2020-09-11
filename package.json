@@ -1,5 +1,5 @@
 {
-  "name": "@refineddigital/team",
+  "name": "@refineddigital/cms-form-builder-sales-force",
   "version": "1.0.1",
   "scripts": {
     "publish-and-tag": "git push --tags && git push origin master",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/refineddigital/cms-team.git"
+    "url": "git+ssh://git@gitlab.com/refineddigital/cms-form-builder-sales-force.git"
   },
   "author": "Matthias Law",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/refineddigital/cms-team/issues"
+    "url": "https://gitlab.com/refineddigital/cms-form-builder-sales-force/issues"
   },
-  "homepage": "https://gitlab.com/refineddigital/cms-team#README",
+  "homepage": "https://gitlab.com/refineddigital/cms-form-builder-sales-force#README",
   "devDependencies": {},
   "dependencies": {}
 }
