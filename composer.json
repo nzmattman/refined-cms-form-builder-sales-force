@@ -16,13 +16,13 @@
   ],
   "autoload": {
     "psr-4": {
-      "RefinedDigital\\FormBuilder\\SalesForce\\": "src/"
+      "RefinedDigital\\SalesForce\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "RefinedDigital\\FormBuilder\\SalesForce\\Module\\Providers\\FormBuilderSalesForceServiceProvider"
+        "RefinedDigital\\SalesForce\\Module\\Providers\\FormBuilderSalesForceServiceProvider"
       ],
       "aliases": {
       }
