@@ -1,6 +1,6 @@
 <?php
 
-namespace RefinedDigital\SalesForce\Module\Providers;
+namespace RefinedDigital\FormBuilderSalesForce\Module\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

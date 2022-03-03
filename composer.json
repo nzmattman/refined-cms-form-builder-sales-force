@@ -21,7 +21,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "RefinedDigital\\SalesForce\\Module\\Providers\\FormBuilderSalesForceServiceProvider"
+        "RefinedDigital\\FormBilderSalesForce\\Module\\Providers\\FormBuilderSalesForceServiceProvider"
       ],
       "aliases": {
       }

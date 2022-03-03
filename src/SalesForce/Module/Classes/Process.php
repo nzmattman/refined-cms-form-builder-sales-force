@@ -1,6 +1,6 @@
 <?php
 
-namespace RefinedDigital\SalesForce\Module\Classes;
+namespace RefinedDigital\FormBuilderSalesForce\Module\Classes;
 
 use RefinedDigital\CMS\Modules\Core\Models\EmailSubmission;
 use RefinedDigital\FormBuilder\Module\Contracts\FormBuilderCallbackInterface;
