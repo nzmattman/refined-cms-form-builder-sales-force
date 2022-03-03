@@ -15,7 +15,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "RefinedDigital\\SalesForce\\": "src/"
+      "RefinedDigital\\FormBuilderSalesForce\\": "src/"
     }
   },
   "extra": {
